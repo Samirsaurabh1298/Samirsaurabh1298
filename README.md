@@ -7,7 +7,7 @@ Frontend Developer
 Frontend Developer with 4 years of experience building and optimizing user-centric web applications. Proficient in React JS, JavaScript, and modern UI frameworks.
 
 * 🌍  I'm based in Bengaluru, Karnataka
-* 🖥️  See my portfolio at [MyPortfolio](http://samirsaurabhportfolio.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://samir-personal-portfolio.vercel.app/)
 * ✉️  You can contact me at [samirverma411@gmail.com](mailto:samirverma411@gmail.com)
 * 🚀  I'm currently working on [Automobile Industry](http://www.mahindrafirstchoice.com/)
 * 🧠  I'm learning Next.js

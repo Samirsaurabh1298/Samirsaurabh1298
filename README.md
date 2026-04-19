@@ -10,7 +10,7 @@ Frontend Developer with 4 years of experience building and optimizing user-centr
 * 🖥️  See my portfolio at [MyPortfolio](https://samir-personal-portfolio.vercel.app/)
 * ✉️  You can contact me at [samirverma411@gmail.com](mailto:samirverma411@gmail.com)
 * 🚀  I'm currently working on [Automobile Industry](http://www.mahindrafirstchoice.com/)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Generative AI & Agentic AI
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love Snooker & Pool
 

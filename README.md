@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Frontend Developer with 2.5 years of experience building and optimizing user-centric web applications. Proficient in React JS, JavaScript, and modern UI frameworks.
+Frontend Developer with 4 years of experience building and optimizing user-centric web applications. Proficient in React JS, JavaScript, and modern UI frameworks.
 
 * 🌍  I'm based in Bengaluru, Karnataka
 * 🖥️  See my portfolio at [MyPortfolio](http://samirsaurabhportfolio.netlify.app/)
